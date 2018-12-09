@@ -1,0 +1,10 @@
+I think the AARRR and RARRA frameworks are both great frameworks to follow, but I would 
+prefer following the RARRA model. I have a friend who develops mobile games for fun, but 
+was trying to turn it into a career. One of his games got featured on MASHABLE's SnapChat 
+and got a huge spike in downloads, but the retention rate for users was very low because 
+there weren't many features to the game that would keep them coming back to play, so although
+he did receive a huge spike in downloads, the amount of users who continued to play his game
+after a month was very low. Something that I think people should also understand while following
+these frameworks is that the payoff also doesn't always necessarily have to be monetary. If you
+are thinking long-term, it could be about the mystery of new producers that drives users to consistently 
+check on your site.
